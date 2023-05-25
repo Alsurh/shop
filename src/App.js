@@ -17,7 +17,7 @@ class App extends React.Component{
           id: 1,
           title: 'Gray chair',
           img: 'chair-grey.jpeg',
-          desc: 'Template text',
+          desc: 'Amazing place for resting after a long day.',
           category: 'chairs',
           price: '49.99'
 
@@ -29,9 +29,9 @@ class App extends React.Component{
           id: 2,
           title: 'Blue table',
           img: 'table.jpeg',
-          desc: 'Template text',
+          desc: 'Luxiorius table for important items.',
           category: 'tables',
-          price: '110'
+          price: ' 110'
 
 
 
@@ -41,7 +41,7 @@ class App extends React.Component{
           id: 3,
           title: 'Caoch',
           img: 'Caoch.jpeg',
-          desc: 'Template text',
+          desc: 'Coach made of highest quality materials.',
           category: 'coaches',
           price: '240'
 
@@ -53,7 +53,7 @@ class App extends React.Component{
           id: 4,
           title: 'Closet',
           img: 'closet.jpeg',
-          desc: 'Template text',
+          desc: 'Place to store your cloathing.',
           category: 'closets',
           price: '300'
 
@@ -65,7 +65,7 @@ class App extends React.Component{
           id: 5,
           title: 'Sofa',
           img: 'Sofa.jpg',
-          desc: 'Template text',
+          desc: 'Place for a wholre family.',
           category: 'sofas',
           price: '59.99'
 
@@ -77,7 +77,7 @@ class App extends React.Component{
           id: 6,
           title: 'Single sofa',
           img: 'SingleSofa.jpg',
-          desc: 'Template text',
+          desc: 'Children favorite place to sit.',
           category: 'sofas',
           price: '29.99'
 

@@ -73,7 +73,7 @@ header .shop-cart {
     top: 30px;
     right: 20px;
     width: 50%;
-    background: rgb(18, 199, 181);
+    background: rgb(184, 173, 235);
     -webkit-box-shadow: 9px 7px 16px 15px rgba(0,0,0,0.75);
     -moz-box-shadow: 9px 7px 16px 15px rgba(0,0,0,0.75);
     box-shadow: 9px 7px 16px 15px rgba(0,0,0,0.75);
@@ -130,7 +130,7 @@ header .shop-cart .item .delete-icon {
 
 header .shop-cart .item .delete-icon:hover {
     color: rgb(252, 6, 6);
-    transform: scale(1.5);
+    transform: scale(-1.5);
  }
 
  header .shop-cart .summa {
@@ -240,22 +240,24 @@ main .item img{
     transform: scale(1.05);
   
   }
-  main h2, .full-item
+  main h2, .full-item{
+    color: #04caed;
+  }
   main p, .full-item
   main b, .full-item {
 
-    margin: 10px 20px;
-    color: #333;
+    margin: 20px 20px;
+    color: #010303;
 
   }
   
-main b, .full-item{color: #053e2d;}
+main b, .full-item{color: #010303;}
 
 main .add-to-cart,
 .full-item .add-to-cart{
 
     position:relative;
-    left: 10px;
+    left: 310px;
     background: #04caed;
     width: 35px;
     height: 35px;

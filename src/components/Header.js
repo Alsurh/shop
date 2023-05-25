@@ -29,7 +29,7 @@ export default function Header(props) {
     <header>
         <div>
 
-            <span className='logo'>House Staff</span>
+            <span className='logo'>House stuff shop</span>
             <ul className='nav'>
               <li>About us</li>
               <li>Contact</li>
